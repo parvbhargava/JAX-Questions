@@ -14,6 +14,7 @@
    * [Question 2](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-2)
    * [Question 3](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-3)
    * [Question 4](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-4)
+   * [Refrences](https://github.com/parvbhargava/SRIP-Parv-Bhargava#refrences)
    
 # Tasks
 
@@ -59,3 +60,10 @@ Bayesian Linear Regression from scratch with BlackJAX [20 Marks]
 ![image](https://user-images.githubusercontent.com/58410910/162581527-6a9c6f2c-f601-4603-8db6-3b741ce7fd00.png)
       
 [Solution Notebook](https://github.com/parvbhargava/SRIP-Parv-Bhargava/blob/main/Question4.ipynb)
+
+## Refrences
+* [JAX random docs](https://jax.readthedocs.io/en/latest/jax.random.html)
+* [Robert Lange](https://github.com/roberttlange)
+* Wikipedia 
+* StackOverflow
+* Google 
