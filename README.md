@@ -6,7 +6,7 @@ Animate bivariate normal distribution. [10 Marks]
 ![image](https://user-images.githubusercontent.com/58410910/162581501-880242cd-d074-4e49-bc46-dc98ebaf94cd.png)
 
    ●	Reproduce the above figure showing samples from bivariate normal with marginal PDFs from scratch using JAX and matplotlib.
-   ●	Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and                 covariance matrix) using ipywidgets.
+   ●	Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and      covariance matrix) using ipywidgets.
 ## Question 2 
 Implement from scratch a sampling method to draw samples from a multivariate Normal (MVN) distribution in JAX. [10 Marks]
 
