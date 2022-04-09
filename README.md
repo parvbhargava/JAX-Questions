@@ -15,7 +15,8 @@
 ## Question 1 
 
 Animate bivariate normal distribution. [10 Marks]
- 
+![image](https://user-images.githubusercontent.com/58410910/162581840-527f8525-d5f1-4823-bb53-e2676fa04df3.png)
+
       ●	Reproduce the above figure showing samples from bivariate normal with marginal PDFs from scratch using JAX and matplotlib.
       ●	Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and covariance matrix) using ipywidgets.
 
