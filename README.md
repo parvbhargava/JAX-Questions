@@ -1,13 +1,24 @@
 # SRIP-Parv-Bhargava
 
+
+# General instructions
+      ●	Use Python language and JAX library for all the tasks unless it is mentioned to use another library (BlackJAX for the last task). You can make use of Google colab to save time in setting up things from scratch. However, you are free to use any other platform. 
+      ●	Your code should be submitted via a GitHub repository specifically created for this purpose (With a well-written README file to navigate).
+      ●	You should create a well-documented, self-contained Jupyter notebook explaining all the details of your experiments (See this for example).
+      ●	The quality of your code will be one of the evaluation factors so make sure to follow PEP 8 guidelines while writing your code. Vectorize your code wherever possible.
+      ●	Please cite the resources you have referred to accomplish the tasks.
+      ●	Given the limited time, it is not necessary to complete all the tasks. Even if you be able to do only one task partially, do it very well to maximize your chances of selection.
+      ●	Please do not ask any questions related to these tasks to Prof. Nipun Batra or Zeel Patel over mail or any other medium. You are allowed to make all the required assumptions on your own but mention them clearly.
+
+# Tasks
+
 ## Question 1 
+
 Animate bivariate normal distribution. [10 Marks]
+ 
+      ●	Reproduce the above figure showing samples from bivariate normal with marginal PDFs from scratch using JAX and matplotlib.
+      ●	Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and covariance matrix) using ipywidgets.
 
-![image](https://user-images.githubusercontent.com/58410910/162581501-880242cd-d074-4e49-bc46-dc98ebaf94cd.png)
-
-   ●	Reproduce the above figure showing samples from bivariate normal with marginal PDFs from scratch using JAX and matplotlib.
-   ●  Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and         covariance matrix) using ipywidgets.
-   
 ## Question 2 
 Implement from scratch a sampling method to draw samples from a multivariate Normal (MVN) distribution in JAX. [10 Marks]
 
