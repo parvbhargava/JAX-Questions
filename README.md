@@ -15,10 +15,10 @@
 ## Question 1 
 
 Animate bivariate normal distribution. [10 Marks]
-![image](https://user-images.githubusercontent.com/58410910/162581840-527f8525-d5f1-4823-bb53-e2676fa04df3.png)
 
       ●	Reproduce the above figure showing samples from bivariate normal with marginal PDFs from scratch using JAX and matplotlib.
       ●	Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and covariance matrix) using ipywidgets.
+ ![image](https://user-images.githubusercontent.com/58410910/162581840-527f8525-d5f1-4823-bb53-e2676fa04df3.png)
 
 ## Question 2 
 Implement from scratch a sampling method to draw samples from a multivariate Normal (MVN) distribution in JAX. [10 Marks]
@@ -27,7 +27,7 @@ Implement from scratch a sampling method to draw samples from a multivariate Nor
     ●	You are only allowed to use jax.random.uniform. You are especially not allowed to use jax.random.normal.
     ●	You should randomly create the mean and covariance matrix to fully specify an MVN distribution.
     ●	Implement a sampling method from scratch using which you can draw samples from the specified MVN distribution.
-    ●	Use your sampling method to draw multiple samples from the MVN distribution and reconstruct the parameters of your MVN distribution (mean and covariance matrix)       to confirm that your sampling method is working correctly.
+    ●	Use your sampling method to draw multiple samples from the MVN distribution and reconstruct the parameters of your MVN distribution (mean and covariance matrix) to confirm that your sampling method is working correctly.
 ## Question 3 
 Implement two hidden layers neural network classifier from scratch in JAX [20 Marks]
 
