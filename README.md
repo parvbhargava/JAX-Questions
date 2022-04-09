@@ -10,10 +10,10 @@
       ●	Given the limited time, it is not necessary to complete all the tasks. Even if you be able to do only one task partially, do it very well to maximize your chances of selection.
       ●	Please do not ask any questions related to these tasks to Prof. Nipun Batra or Zeel Patel over mail or any other medium. You are allowed to make all the required assumptions on your own but mention them clearly.
 # Index 
-   [Question 1](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-1)
-   [Question 2](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-2)
-   [Question 3](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-3)
-   [Question 4](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-4)
+   * [Question 1](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-1)
+   * [Question 2](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-2)
+   * [Question 3](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-3)
+   * [Question 4](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-4)
    
 # Tasks
 
@@ -25,6 +25,8 @@ Animate bivariate normal distribution. [10 Marks]
       ●	Reproduce the above figure showing samples from bivariate normal with marginal PDFs from scratch using JAX and matplotlib.
       ●	Add interactivity to the figure by adding sliders with ipywidgets. You should be able to vary the parameters of bivariate normal distribution (mean and covariance matrix) using ipywidgets.
  ![image](https://user-images.githubusercontent.com/58410910/162581840-527f8525-d5f1-4823-bb53-e2676fa04df3.png)
+ 
+ [Solution Notebook](https://github.com/parvbhargava/SRIP-Parv-Bhargava/blob/main/Question1.ipynb)
 
 ## Question 2 
 Implement from scratch a sampling method to draw samples from a multivariate Normal (MVN) distribution in JAX. [10 Marks]
@@ -34,6 +36,8 @@ Implement from scratch a sampling method to draw samples from a multivariate Nor
     ●	You should randomly create the mean and covariance matrix to fully specify an MVN distribution.
     ●	Implement a sampling method from scratch using which you can draw samples from the specified MVN distribution.
     ●	Use your sampling method to draw multiple samples from the MVN distribution and reconstruct the parameters of your MVN distribution (mean and covariance matrix) to confirm that your sampling method is working correctly.
+    
+ [Solution Notebook](https://github.com/parvbhargava/SRIP-Parv-Bhargava/blob/main/Question2.ipynb)
 ## Question 3 
 Implement two hidden layers neural network classifier from scratch in JAX [20 Marks]
 
@@ -44,6 +48,8 @@ Implement two hidden layers neural network classifier from scratch in JAX [20 Ma
     ●	Use gradient descent from scratch to optimize your network. You should use the Pytree concept of JAX to do this elegantly.
     ●	Plot loss v/s iterations curve with matplotlib.
     ●	Evaluate the model on test data with various classification metrics and briefly discuss their implications.
+    
+ [Solution Notebook](https://github.com/parvbhargava/SRIP-Parv-Bhargava/blob/main/Question3.ipynb)
 ## Question 4 
 Bayesian Linear Regression from scratch with BlackJAX [20 Marks]
 
@@ -51,3 +57,4 @@ Bayesian Linear Regression from scratch with BlackJAX [20 Marks]
     ●	Create your own 1d linear dataset with added noise.
     ●	Plot the learned predictive mean and 2 standard deviations around the mean like the below plot.
 ![image](https://user-images.githubusercontent.com/58410910/162581527-6a9c6f2c-f601-4603-8db6-3b741ce7fd00.png)
+[Solution Notebook](https://github.com/parvbhargava/SRIP-Parv-Bhargava/blob/main/Question4.ipynb)
