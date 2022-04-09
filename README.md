@@ -1,4 +1,4 @@
-# SRIP-Parv-Bhargava
+# [SRIP-Parv-Bhargava](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
 
 
 # General instructions
