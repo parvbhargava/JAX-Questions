@@ -10,11 +10,11 @@
       ●	Given the limited time, it is not necessary to complete all the tasks. Even if you be able to do only one task partially, do it very well to maximize your chances of selection.
       ●	Please do not ask any questions related to these tasks to Prof. Nipun Batra or Zeel Patel over mail or any other medium. You are allowed to make all the required assumptions on your own but mention them clearly.
 # Index 
-    / Question 1 
-    /  Question 2 
-    / Question 3
-    / Question 4 
-    
+   [Question 1](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-1)
+   [Question 2](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-2)
+   [Question 3](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-3)
+   [Question 4](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-4)
+   
 # Tasks
 
 ## Question 1 
