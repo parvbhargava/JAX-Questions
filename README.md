@@ -64,6 +64,7 @@ Bayesian Linear Regression from scratch with BlackJAX [20 Marks]
 ## Refrences
 * [JAX random docs](https://jax.readthedocs.io/en/latest/jax.random.html)
 * [Robert Lange](https://github.com/roberttlange)
+* [Anna-Lena Popkes](https://alpopkes.com/)
 * Wikipedia 
 * StackOverflow
 * Google 
