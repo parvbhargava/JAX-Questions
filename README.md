@@ -65,6 +65,8 @@ Bayesian Linear Regression from scratch with BlackJAX [20 Marks]
 * [JAX random docs](https://jax.readthedocs.io/en/latest/jax.random.html)
 * [Robert Lange](https://github.com/roberttlange)
 * [Anna-Lena Popkes](https://alpopkes.com/)
+* [scipython](https://scipython.com/blog/visualizing-the-bivariate-gaussian-distribution/)
+* [JAX Scipy Docs](https://jax.readthedocs.io/en/latest/jax.scipy.html)
 * Wikipedia 
 * StackOverflow
 * Google 
