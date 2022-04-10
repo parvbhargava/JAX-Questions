@@ -1,5 +1,5 @@
-# [SRIP-Parv-Bhargava](https://github.com/parvbhargava/SRIP-Parv-Bhargava)
-[To Page](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
+# [SRIP-Parv-Bhargava](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
+[To Repository](https://github.com/parvbhargava/SRIP-Parv-Bhargava)
 
 # General instructions
       ●	Use Python language and JAX library for all the tasks unless it is mentioned to use another library (BlackJAX for the last task). You can make use of Google colab to save time in setting up things from scratch. However, you are free to use any other platform. 
@@ -9,6 +9,7 @@
       ●	Please cite the resources you have referred to accomplish the tasks.
       ●	Given the limited time, it is not necessary to complete all the tasks. Even if you be able to do only one task partially, do it very well to maximize your chances of selection.
       ●	Please do not ask any questions related to these tasks to Prof. Nipun Batra or Zeel Patel over mail or any other medium. You are allowed to make all the required assumptions on your own but mention them clearly.
+      
 # Index 
    * [Question 1](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-1)
    * [Question 2](https://github.com/parvbhargava/SRIP-Parv-Bhargava#question-2)
