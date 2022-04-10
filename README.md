@@ -1,5 +1,5 @@
-# [SRIP-Parv-Bhargava](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
-[To Repository](https://github.com/parvbhargava/SRIP-Parv-Bhargava)
+# [SRIP-Parv-Bhargava](https://github.com/parvbhargava/SRIP-Parv-Bhargava)
+[To Page](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
 
 # General instructions
       ●	Use Python language and JAX library for all the tasks unless it is mentioned to use another library (BlackJAX for the last task). You can make use of Google colab to save time in setting up things from scratch. However, you are free to use any other platform. 
