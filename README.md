@@ -1,4 +1,4 @@
-# [SRIP-Parv-Bhargava](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
+# [JAX-Questions](https://parvbhargava.github.io/SRIP-Parv-Bhargava/)
 [To Repository](https://github.com/parvbhargava/SRIP-Parv-Bhargava)
 
 # General instructions
